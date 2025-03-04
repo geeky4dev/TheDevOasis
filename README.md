@@ -1,4 +1,4 @@
-## Hi there, I am runandroid 👋
+## Welcome aboard! I am runandroid 👋
 
 <!--
 **runandroid/runandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
