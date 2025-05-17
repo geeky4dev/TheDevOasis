@@ -1,7 +1,7 @@
 ## Welcome aboard! I am geeky4dev👋 
 
 <!--
-**TheDevOasis/TheDevOasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**geeky4dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
